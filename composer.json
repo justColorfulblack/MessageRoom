@@ -1,0 +1,12 @@
+{
+    "name": "message/room",
+    "description": "a instant chat logic",
+    "type": "project",
+    "authors": [
+        {
+            "name": "zhangJD",
+            "email": "13720072067@163.com"
+        }
+    ],
+    "require": {}
+}
